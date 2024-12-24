@@ -1,0 +1,62 @@
+[
+  {
+    "planId": 0,
+    "name": "5K Training Plan",
+    "imageUrl": "https://users.metropolia.fi/~thuh/5k.png",
+    "description": "A 5K race is 5 kilometers long, which is the equivalent of 3.1 miles. Because the 5K is one of the shorter road races, it's very popular among beginner runners who want to enter their first race. Advanced runners also like to run 5Ks to keep their racing skills sharp.",
+    "duration": "8 weeks",
+    "frequency": "2-3 times a week",
+    "level": "Beginner",
+    "targetDistance":  5.0,
+    "targetSpeed":  14.0,
+    "targetHeartRate": 150
+  },
+  {
+    "planId": 1,
+    "name": "Half Marathon Training Plan",
+    "imageUrl": "https://users.metropolia.fi/~thuh/half-marathon.png",
+    "description": "A half marathon is 13.1 miles or 21 kilometers, or exactly half the distance of a marathon (26.2 miles). Once runners have completed some 5Ks and 10Ks, they frequently look to a half marathon race as their next goal.",
+    "duration": "14 weeks",
+    "frequency": "4-5 times a week",
+    "level": "Intermediate",
+    "targetDistance":  65.0,
+    "targetSpeed":  14.0,
+    "targetHeartRate": 155
+  },
+  {
+    "planId": 2,
+    "name": "8K Training Plan",
+    "imageUrl": "https://users.metropolia.fi/~thuh/8k.png",
+    "description": "The 8K (4.97 miles) or 5-mile distance is a popular one for road races. If you've recently started running, an 8K race is a nice introduction to road racing. A 5-miler or 8-K race is also an achievable goal after you've finished a 5K race.",
+    "duration": "8 weeks",
+    "frequency": "3 times a week",
+    "level": "Intermediate",
+    "targetDistance":  8.0,
+    "targetSpeed":  14.0,
+    "targetHeartRate": 155
+  },
+  {
+    "planId": 3,
+    "name": "Marathon Training Plan",
+    "imageUrl": "https://users.metropolia.fi/~thuh/marathon.png",
+    "description": "A marathon is 26.2 miles, or 42 kilometers. Before you attempt to run a marathon, you should have established a running base by running a few days a week for three to six months. If you've never run a race before, it’s a good idea to train for and run a shorter race to get some race experience and boost your confidence about running.",
+    "duration": "18 weeks",
+    "frequency": "5 times a week",
+    "level": "Advanced",
+    "targetDistance":  42.0,
+    "targetSpeed":  14.0,
+    "targetHeartRate": 155
+  },
+  {
+    "planId": 4,
+    "name": "10K Training Plan",
+    "imageUrl": "https://users.metropolia.fi/~thuh/10k.png",
+    "description": "A 10K race is 10 kilometers long, which is the equivalent of 6.2 miles. Because the 10K is one of the shorter road races, it's popular among novice runners who want to step up from a 5K. Advanced runners also like to run 10Ks to have a short-term goal and to test their fitness and sharpen their racing skills in preparation for a longer race.",
+    "duration": "10 weeks",
+    "frequency": "5 times a week",
+    "level": "Advanced",
+    "targetDistance":  10.0,
+    "targetSpeed":  14.0,
+    "targetHeartRate": 160
+  }
+]

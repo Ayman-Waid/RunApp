@@ -1,0 +1,24 @@
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportHeight="12"
+    android:viewportWidth="12">
+
+    <!-- Scale the canvas, then rotate, then translate, then draw the record icon. -->
+    <group android:translateX="2">
+        <group
+            android:rotation="90"
+            android:scaleX="1.5"
+            android:pivotX="6"
+            android:pivotY="6">
+            <!-- This path draws a red circle. -->
+            <path
+                android:name="record_path"
+                android:fillColor="#DB4437"
+                android:pathData="M 2,6 C 2,3.79 3.79,2 6,2 C 8.21,2 10,3.79 10,6 C 10,8.21 8.21,10 6,10 C 3.79,10 2,8.21 2,6"/>
+        </group>
+    </group>
+
+</vector>
